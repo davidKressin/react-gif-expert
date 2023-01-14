@@ -1,0 +1,1 @@
+GET api.giphy.com/v1/gifs/search?api_key=1pSIRHA6mi51FJWTaRNo71rWZLRo3qma&q=valorant HTTP/1.1
